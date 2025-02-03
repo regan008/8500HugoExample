@@ -1,5 +1,5 @@
 ---
-title: EXAMPLE PROJECT
+title: "The Avengers Assemble… and So Does NATO: Superhero Teams and International Relations in the 20th Century"
 ---
 
  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac leo pellentesque leo pulvinar pellentesque. In rutrum maximus diam in tempor. Nunc eget facilisis erat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas aliquam ut leo at posuere. Phasellus lectus mi, blandit et odio vitae, laoreet aliquam arcu. Mauris vel metus molestie, blandit tellus in, eleifend dolor. Integer quis arcu non ante volutpat consectetur. Vestibulum vitae molestie orci, vel suscipit quam. Aenean ante lectus, dictum quis lectus nec, fringilla porttitor justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;

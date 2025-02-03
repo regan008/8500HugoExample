@@ -22,24 +22,17 @@
       <description></description>
     </item>
     <item>
-      <title></title>
-      <link>http://localhost:1313/projects/example-project-3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/example-project-3/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>EXAMPLE PROJECT</title>
-      <link>http://localhost:1313/projects/example-project-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/example-project-1/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac leo pellentesque leo pulvinar pellentesque. In rutrum maximus diam in tempor. Nunc eget facilisis erat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas aliquam ut leo at posuere. Phasellus lectus mi, blandit et odio vitae, laoreet aliquam arcu. Mauris vel metus molestie, blandit tellus in, eleifend dolor. Integer quis arcu non ante volutpat consectetur. Vestibulum vitae molestie orci, vel suscipit quam. Aenean ante lectus, dictum quis lectus nec, fringilla porttitor justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>EXAMPLE PROJECT #2</title>
+      <title>Spider-Man and Suburbia: The Rise of the Teen Hero in Postwar America</title>
       <link>http://localhost:1313/projects/example-project-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/example-project-2/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac leo pellentesque leo pulvinar pellentesque. In rutrum maximus diam in tempor. Nunc eget facilisis erat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas aliquam ut leo at posuere. Phasellus lectus mi, blandit et odio vitae, laoreet aliquam arcu. Mauris vel metus molestie, blandit tellus in, eleifend dolor. Integer quis arcu non ante volutpat consectetur. Vestibulum vitae molestie orci, vel suscipit quam. Aenean ante lectus, dictum quis lectus nec, fringilla porttitor justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Superpowered Past: Mapping 20th-Century History Through Marvel’s Global Footprint</title>
+      <link>http://localhost:1313/projects/example-project-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/example-project-3/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac leo pellentesque leo pulvinar pellentesque. In rutrum maximus diam in tempor. Nunc eget facilisis erat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas aliquam ut leo at posuere. Phasellus lectus mi, blandit et odio vitae, laoreet aliquam arcu. Mauris vel metus molestie, blandit tellus in, eleifend dolor. Integer quis arcu non ante volutpat consectetur. Vestibulum vitae molestie orci, vel suscipit quam. Aenean ante lectus, dictum quis lectus nec, fringilla porttitor justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;&lt;/p&gt;</description>
     </item>
     <item>
@@ -47,6 +40,13 @@
       <link>http://localhost:1313/posts/post-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/post-1/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac leo pellentesque leo pulvinar pellentesque. In rutrum maximus diam in tempor. Nunc eget facilisis erat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas aliquam ut leo at posuere. Phasellus lectus mi, blandit et odio vitae, laoreet aliquam arcu. Mauris vel metus molestie, blandit tellus in, eleifend dolor. Integer quis arcu non ante volutpat consectetur. Vestibulum vitae molestie orci, vel suscipit quam. Aenean ante lectus, dictum quis lectus nec, fringilla porttitor justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Avengers Assemble… and So Does NATO: Superhero Teams and International Relations in the 20th Century</title>
+      <link>http://localhost:1313/projects/example-project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/example-project-1/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac leo pellentesque leo pulvinar pellentesque. In rutrum maximus diam in tempor. Nunc eget facilisis erat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas aliquam ut leo at posuere. Phasellus lectus mi, blandit et odio vitae, laoreet aliquam arcu. Mauris vel metus molestie, blandit tellus in, eleifend dolor. Integer quis arcu non ante volutpat consectetur. Vestibulum vitae molestie orci, vel suscipit quam. Aenean ante lectus, dictum quis lectus nec, fringilla porttitor justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;&lt;/p&gt;</description>
     </item>
   </channel>
