@@ -1,17 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Bootstrap demo</title>
+    <title>Posts on Dr. Octavia L. Merriweather</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Bootstrap demo</description>
+    <description>Recent content in Posts on Dr. Octavia L. Merriweather</description>
     <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>test post</title>
-      <link>http://localhost:1313/posts/testpost/</link>
+      <title>Conference Papers Are Temporary, but Awkward Q&amp;A Sessions Are Forever: How to Survive Academic Events</title>
+      <link>http://localhost:1313/posts/post-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/testpost/</guid>
+      <guid>http://localhost:1313/posts/post-3/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac leo pellentesque leo pulvinar pellentesque. In rutrum maximus diam in tempor. Nunc eget facilisis erat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas aliquam ut leo at posuere. Phasellus lectus mi, blandit et odio vitae, laoreet aliquam arcu. Mauris vel metus molestie, blandit tellus in, eleifend dolor. Integer quis arcu non ante volutpat consectetur. Vestibulum vitae molestie orci, vel suscipit quam. Aenean ante lectus, dictum quis lectus nec, fringilla porttitor justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Impostor Syndrome? I Prefer to Call It ‘Professional Ambiguity’: Thriving in Academia When No One Knows What You Actually Do</title>
+      <link>http://localhost:1313/posts/post-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post-2/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac leo pellentesque leo pulvinar pellentesque. In rutrum maximus diam in tempor. Nunc eget facilisis erat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas aliquam ut leo at posuere. Phasellus lectus mi, blandit et odio vitae, laoreet aliquam arcu. Mauris vel metus molestie, blandit tellus in, eleifend dolor. Integer quis arcu non ante volutpat consectetur. Vestibulum vitae molestie orci, vel suscipit quam. Aenean ante lectus, dictum quis lectus nec, fringilla porttitor justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Art of the Overcomplicated Email: Strategies for Sounding Busy Without Saying Anything</title>
+      <link>http://localhost:1313/posts/post-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post-1/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac leo pellentesque leo pulvinar pellentesque. In rutrum maximus diam in tempor. Nunc eget facilisis erat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas aliquam ut leo at posuere. Phasellus lectus mi, blandit et odio vitae, laoreet aliquam arcu. Mauris vel metus molestie, blandit tellus in, eleifend dolor. Integer quis arcu non ante volutpat consectetur. Vestibulum vitae molestie orci, vel suscipit quam. Aenean ante lectus, dictum quis lectus nec, fringilla porttitor justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;&lt;/p&gt;</description>
     </item>
   </channel>
