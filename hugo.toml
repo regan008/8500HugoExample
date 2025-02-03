@@ -5,7 +5,7 @@ defaultContentLanguage = "en"
 
 # Pagination
 pagerSize = 20
-paginatePath = "page"
+pagination.path = "page"
 
 # Theme to use
 theme = "hugo-bootstrap-5"
